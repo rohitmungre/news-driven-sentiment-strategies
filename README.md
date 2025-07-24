@@ -16,7 +16,7 @@ A Python library that ingests financial news, applies transformer‑based sentim
 - Optional minimum news‑volume filter to reduce noise
 
 ### Installation
-```
+```sh
 git clone https://github.com/rohitmungre/news‑driven‑sentiment‑strategies.git
 cd news-driven-sentiment-strategies
 python3 -m venv venv && source venv/bin/activate
