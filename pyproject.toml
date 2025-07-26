@@ -1,0 +1,15 @@
+[project]
+name = "news-driven-sentiment-strategies"
+version = "0.1.0"
+description = "A Python library that applies transformer‑based sentiment analysis on financial news"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic>=2.11.7",
+    "pytest>=8.4.1",
+    "python-dotenv>=1.1.1",
+    "requests>=2.32.4",
+    "torch>=2.7.1",
+    "transformers>=4.54.0",
+    "typer>=0.16.0",
+]

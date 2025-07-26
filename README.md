@@ -1,6 +1,6 @@
 # news-driven-sentiment-strategies
 
-A Python library that ingests financial news, applies transformer‑based sentiment analysis, and constructs trading signals.
+A Python library that applies transformer‑based sentiment analysis on financial news, and constructs trading signals.
 
 ### Features
 
